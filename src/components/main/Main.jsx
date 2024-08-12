@@ -29,8 +29,8 @@ const Main = () => {
                         <p>How can I help you today?</p>
                     </div>
                     <div className="cards">
-                        <div className="card" onClick={() => setInput("Briefly summarize Sydney's work experience")}>
-                            <p>summarize Sydney's coding experience</p>
+                        <div className="card" onClick={() => setInput("Summarize Sydney's coding experience")}>
+                            <p>Summarize Sydney's coding experience</p>
                             {/* <img src={assets.compass_icon} alt=""/> */}
                         </div>
                         <div className="card" onClick={() => setInput("Describe Sydney's ideal work environment")}>

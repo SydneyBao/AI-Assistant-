@@ -30,7 +30,7 @@ const Main = () => {
                     </div>
                     <div className="cards">
                         <div className="card" onClick={() => setInput("Briefly summarize Sydney's work experience")}>
-                            <p>Briefly summarize Sydney's work experience</p>
+                            <p>summarize Sydney's coding experience</p>
                             {/* <img src={assets.compass_icon} alt=""/> */}
                         </div>
                         <div className="card" onClick={() => setInput("Describe Sydney's ideal work environment")}>
@@ -53,7 +53,7 @@ const Main = () => {
                         <p>{recentPrompt}</p>
                     </div>
                     <div className="result-data">
-                        <img src={assets.gemini_icon} alt=""/>
+                        <img src="../../../public/sign.png" alt=""/>
                         {loading?
                             <div className="loader">
                                 <hr />

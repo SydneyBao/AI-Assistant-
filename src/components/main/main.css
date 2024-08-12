@@ -169,14 +169,14 @@
 }
 
 .result img{
-    width: 40px;
+    width: 55px;
     border-radius: 50%;
 }
 
 .result-data {
     display: flex;
     align-items: start;
-    gap: 20px;
+    gap: 10px;
 }
 
 .loader{

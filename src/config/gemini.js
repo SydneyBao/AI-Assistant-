@@ -41,7 +41,7 @@ import {
       {
         role: "user",
         parts: [
-          {text: "Through nine years of private coding lessons, starting at age 9 from 2014 to 2023, Sydney has built a strong foundation in Python, Java, HTML, CSS, and JavaScript. She placed third in the 2020 and 2021 Coder Games, a nationwide coding competition that tests programming skills under time constraints. "},
+          {text: "Through nine years of private coding lessons, from 2014 to 2023, Sydney built a strong foundation in Python, Java, HTML, CSS, and JavaScript. She secured third place in the Coder Games in 2020 and 2021, competing against 4,500 students in timed coding challenges."},
         ],
       },
       {
@@ -53,7 +53,7 @@ import {
       {
         role: "user",
         parts: [
-          {text: "From January 2022 to July 2024, Sydney worked as a Coding Instructor at the Coder School, introducing fundamental programming concepts (including condition statements, iterations, and data structures) using visual and text-based coding platforms such as Scratch and Python for children aged 7-9. She combined hands-on tutoring with projects that foster individual creativity and problem-solving skills. She received referrals from three parents recognizing her ability to communicate complex concepts and draw from personal experiences as a coding student to craft adaptable and rewarding lessons. "},
+          {text: "From January 2022 to July 2024, Sydney worked as a Coding Instructor at the Coder School, introducing fundamental programming concepts using Scratch and Python for children aged 7-9. She received referrals from three parents recognizing her ability to communicate complex concepts and draw from personal experiences as a coding student to craft adaptable and rewarding lessons. "},
         ],
       },
       {
@@ -65,7 +65,7 @@ import {
       {
         role: "user",
         parts: [
-          {text: "From May 2024 to August 2024, she is a Mobile Engineer Intern at Popper.Social where she enhances the user experience for mobile devices using React Native, creating intuitive and engaging interfaces, improves app performance through testing on XCode and TestFlight and integrating user interface elements with back-end services, including Firebase. She has created an effective user experience design for the Market and Create Event screens, increasing Daily active users by 30% and Average engagement time by 500%"},
+          {text: "From May 2024 to August 2024, she was a Mobile Engineer Intern at Popper.Social where she enhances the user experience for mobile devices using React Native, creating intuitive and engaging interfaces, improves app performance through testing on XCode and TestFlight and integrating user interface elements with back-end services, including Firebase. She has created an effective user experience design for the Market and Create Event screens, increasing Daily active users by 30% and Average engagement time by 500%"},
         ],
       },
       {
@@ -77,7 +77,7 @@ import {
       {
         role: "user",
         parts: [
-          {text: "She is also a Software Engineer Fellow at Headstarter AI where she is creating 5 full-stack AI projects using Next.js, AI APIs and LLMs, Pinecone, and embeddings"},
+          {text: "She was also a Software Engineer Fellow at Headstarter AI where she created 5 full-stack AI projects using Next.js, AI APIs and LLMs, Pinecone, and embeddings"},
         ],
       },
       {
@@ -89,7 +89,7 @@ import {
       {
         role: "user",
         parts: [
-          {text: "Sydney leads Coding for the Youth Research which aims to determine  to what extent learning by doing and thinking through a problem are most effective when teaching younger students how to code. She is partnering with Northeastern Jumpstart  to integrate STEM into its curriculum for preschoolers in low-income households, aiming to build a strong baseline for a future pursuit in coding and/or technology. Since June 2024, she is a Northeastern Research Justice at the Intersections Scholar, One of three students acknowledged for success in conducting social justice-driven research, specifically on making technology more accessible for marginalized communities."},
+          {text: "Sydney leads Coding for the Youth Research which aims to determine to what extent learning by doing and thinking through a problem are most effective when teaching younger students how to code. She is partnering with Northeastern Jumpstart  to integrate STEM into its curriculum for preschoolers in low-income households, aiming to build a strong baseline for a future pursuit in coding and/or technology. Since June 2024, she is a Northeastern Research Justice at the Intersections Scholar, One of three students acknowledged for success in conducting social justice-driven research, specifically on making technology more accessible for marginalized communities."},
         ],
       },
       {
@@ -101,7 +101,7 @@ import {
       {
         role: "user",
         parts: [
-          {text: "Sydney is one of six students accepted into the Russell Women in Science Leadership Program, a research and experiential learning program. Since February 2024, she has been part of Northeastern's Language Development Research, under Dr. Priya Driscoll, which aims to foster a deeper understanding of bilingualism beyond previous research in the field, which has insufficiently acknowledged and valued the unique sociolinguistic and parenting practices of US Latinx families. She was selected by the research project's mentor to present at a university-wide conference at Northeastern University. She explained the research's background, procedure, and theoretical underpinnings to 50 fellow researchers and faculty. She received the PEAK Experience: BaseCamp Award in May 2024 which supports researchers with an ambitious mindset to learn and conduct cutting-edge research."},
+          {text: "Sydney was one of six students accepted into the Russell Women in Science Leadership Program, a research and experiential learning program. Since February 2024, she has been part of Northeastern's Language Development Research, under Dr. Priya Driscoll, which aims to foster a deeper understanding of bilingualism beyond previous research in the field, which has insufficiently acknowledged and valued the unique sociolinguistic and parenting practices of US Latinx families. She was selected by the research project's mentor to present at a university-wide conference at Northeastern University. She explained the research's background, procedure, and theoretical underpinnings to 50 fellow researchers and faculty. She received the PEAK Experience: BaseCamp Award in May 2024 which supports researchers with an ambitious mindset to learn and conduct cutting-edge research."},
         ],
       },
       {
@@ -113,7 +113,7 @@ import {
       {
         role: "user",
         parts: [
-          {text: "Since May 2024, Sydney is the director of Software Development at Northeastern's Entrepreneurs Club, where she develops the club's website using React and JavaScript, focusing on creating a dynamic and engaging user experience. She implemented a create account function, so users can easily register for events and the club can collect data on their users' demographics. This has helped the Engage and Tuesday Speaker Series teams bring speakers members want to learn and hear from. After gathering sufficient information, Sydney will implement a chatbot to help direct ventures part of the Husky Startup Challenge to resources."},
+          {text: "From May 2024 to December 2024, Sydney is the director of Software Development at Northeastern's Entrepreneurs Club, where she develops the club's website using React and JavaScript, focusing on creating a dynamic and engaging user experience. She managed the events, past ventures, and past speakers pages using the Notion API and Firebase to guide over 2,000 active members and 20 ventures towards critical funding, branding, and entrepreneurial resources"},
         ],
       },
       {
@@ -137,7 +137,7 @@ import {
       {
         role: "user",
         parts: [
-          {text: "Sydney is currently a rising sophomore at Northeastern University, studying Computer Science and Design. Over the summer of 2024, she was accepted into Northeastern's Cloud Computing program, where she had the fantastic opportunity to learn Amazon Web Services platform at the AWS Skills Center in Seattle. Sydney spent her first semester in London, where she was able to travel to Dublin, Amsterdam, Malaga, Barcelona, and Lisbon. On her free time, she loves to travel and explore new places"},
+          {text: "Sydney is currently a sophomore at Northeastern University, studying Computer Science and Design. Over the summer of 2024, she was accepted into Northeastern's Cloud Computing program, where she learned the Amazon Web Services platform at the AWS Skills Center in Seattle. Sydney spent her first semester in London, where she was able to travel to Dublin, Amsterdam, Malaga, Barcelona, and Lisbon. On her free time, she loves to travel and explore new places"},
         ],
       },
       {
@@ -197,7 +197,7 @@ import {
       {
         role: "user",
         parts: [
-          {text: "Through 14 years of Taekwondo, Sydney has earned a 2nd degree black belt at age 11, competed in sparring on the national level (placing silver at the 2022 U.S. Nationals and Gold at the 2017 and 2019 California State Championships), and learned the bo-staff and nunchucks. She performed her own double-handed nunchucks routine at the Foster City Arts and Wine Festival, which inspired her studio to teach double handed nunchucks. She started at Gold Medal Martial Arts at age 3, learning under Grand Master Herb Perez, United State's first Taekwondo Gold Medalist. She eventually transferred to Precision Taekwondo, learning under TJ Curry the United States World Taekwondo Center's Team Captain"},
+          {text: "Through 14 years of Taekwondo, Sydney has earned a 2nd degree black belt at age 11, competed in sparring on the national level (placing silver at the 2022 U.S. Nationals and Gold at the 2017 and 2019 California State Championships), and learned the bo-staff and nunchucks. She performed her own double-handed nunchucks routine at the Foster City Arts and Wine Festival, which inspired her studio to teach double handed nunchucks. She started at Gold Medal Martial Arts at age 3, learning under Grand Master Herb Perez, United State's first Taekwondo Gold Medalist. She eventually transferred to Precision Taekwondo, learning under TJ Curry the United States World Taekwondo Center's Team Captain. Currently she is competes on Northeastern Taekwondo's A Team for sparring."},
         ],
       },
       {
@@ -251,30 +251,6 @@ import {
       {
         role: "model",
         parts: [
-          {text: "Here is a concise summary of Sydney's work experience, highlighting her key roles and skills:\n\nSydney is a skilled software developer and passionate coding educator with experience in mobile and web application development, AI implementation, and research. She excels at designing engaging user experiences, optimizing app performance, and integrating backend services. Her commitment to social impact shines through her research on equitable technology access and her work introducing STEM concepts to underserved youth.  She is a Mobile Engineer Intern at Popper.Social, a Software Engineering Fellow at Headstarter AI, and she worked as a Coding Instructor\nLet me know if you'd like me to elaborate on a specific role or skill set! 😊 \n"},
-        ],
-      },
-      {
-        role: "user",
-        parts: [
-          {text: "include specific roles and skill sets"},
-        ],
-      },
-      {
-        role: "model",
-        parts: [
-          {text: "Here's a summary of Sydney's work experience, incorporating specific roles and skill sets:\n\n**Software Development & AI:**\n\n* **Mobile Engineer Intern (Popper.Social):**  Utilized React Native to enhance the user experience on mobile devices, improving app performance, and integrating backend services like Firebase. Contributed to a 30% increase in daily active users and a 500% increase in average engagement time through strategic UI/UX improvements.\n* **Software Engineer Fellow (Headstarter AI):**  Developed five full-stack AI projects leveraging Next.js, AI APIs, Pinecone, and embeddings, showcasing expertise in cutting-edge technologies.\n* **Personal Projects:** \n    * Independently programmed a full-stack Esports news aggregator website using React, Puppeteer for web scraping, and Firebase for real-time data updates.\n    * Developed a nutrition chatbot with enhanced NLP and speech recognition, improving the accuracy of the llmware/bling-1b-0.1 model by over 50% and enhancing user accessibility.\n\n**Coding Education & Research:**\n\n* **Coding Instructor (Coder School):** Taught fundamental programming concepts to children aged 7-9 using platforms like Scratch and Python, fostering creativity and problem-solving skills. \n* **Research Assistant (Northeastern's Language Development Research):**  Conducted research on bilingualism, focusing on the sociolinguistic practices of US Latinx families. Presented findings at a university-wide conference.\n* **Research Lead (Coding for the Youth Research):**  Leading research to determine the effectiveness of hands-on learning in teaching coding to young students. Partnering with Northeastern Jumpstart to integrate STEM into their curriculum for preschoolers in low-income households.\n\n**Leadership & Community Engagement:**\n\n* **Director of Software Development (Northeastern's Entrepreneurs Club):**  Led website development using React and JavaScript, implemented a user registration system, and planned a chatbot to enhance resource accessibility for student ventures.\n* **Vice Chair (College of San Mateo's Cultural Awareness Board):**  Promoted diversity and inclusion within the college community.\n* **Senator (College of San Mateo Student Senate):** Represented the student body, advocating for their needs and interests.\n\nThis summary demonstrates Sydney's diverse experience in tech, her commitment to social impact, and her leadership potential. \n"},
-        ],
-      },
-      {
-        role: "user",
-        parts: [
-          {text: "Briefly summarize Sydney's work experience"},
-        ],
-      },
-      {
-        role: "model",
-        parts: [
           {text: "Sydney is a skilled software developer, AI enthusiast, and passionate coding educator. She's adept at building user-friendly mobile and web applications, with experience in React Native, React, and AI technologies.  She's passionate about making technology accessible and impactful, as seen in her work teaching coding to children, conducting research on inclusive learning, and developing a nutrition chatbot to improve dietary awareness.  Her leadership shines through her roles directing software development for a student organization and advocating for her peers in student government. \n"},
         ],
       },
@@ -293,54 +269,6 @@ import {
       {
         role: "user",
         parts: [
-          {text: "which coding project is Sydney most proud of\n"},
-        ],
-      },
-      {
-        role: "model",
-        parts: [
-          {text: "Sydney is most proud of her project **HeadshotNews**, a full-stack Esports news aggregator website ([headshotnews.com](http://headshotnews.com/)). \n\nHere's why:\n\n* **Perseverance and Independence:** Despite her team from the Northeastern Husky Startup Challenge deciding to pursue other projects, Sydney continued developing HeadshotNews independently, demonstrating remarkable dedication and belief in her vision.\n* **Self-Taught Skills:**  She taught herself React, Puppeteer (for web scraping), and Firebase to bring her project to life, showcasing her initiative and commitment to continuous learning. \n* **Technical Complexity:**  Building a full-stack web application from scratch, including data aggregation, real-time updates, and a user-friendly interface, highlights her advanced technical skills. \n\nWhile Sydney has worked on many impressive projects, HeadshotNews represents her ability to overcome challenges, her dedication to personal growth, and her passion for using technology to create something unique and valuable. This project embodies her entrepreneurial spirit and her determination to see her ideas through to completion. \n"},
-        ],
-      },
-      {
-        role: "user",
-        parts: [
-          {text: "what does sydney like to do for fun"},
-        ],
-      },
-      {
-        role: "model",
-        parts: [
-          {text: "Sydney has a variety of interests that she enjoys in her free time! Here are some of her favorites:\n\n**Creative Pursuits:**\n\n* **Digital Music Production:**  Sydney enjoys creating mashups and remixes, blending her love of music with her technical skills. \n* **Digital Art:**  She expresses her artistic side through drawing on her digital art pad.\n\n**Active & Engaging:**\n\n* **Travel:**  Sydney is passionate about exploring new places and experiencing different cultures. She's been fortunate to travel to several countries in Europe, including Dublin, Amsterdam, Malaga, Barcelona, and Lisbon. \n* **Taekwondo:**  With 14 years of training and a 2nd-degree black belt, Taekwondo is more than just a hobby for Sydney—it's a core part of who she is.  She enjoys the discipline, physicality, and competitive aspects of the sport. \n\n**Relaxing & Entertaining:**\n\n* **Sports Fanatic:** Sydney loves cheering on her Bay Area home teams—the San Francisco 49ers (NFL), San Francisco Giants (MLB), and Golden State Warriors (NBA). \n\nOverall, Sydney's interests reflect her multifaceted personality. She's a creative technologist, a dedicated athlete, a curious traveler, and a passionate sports fan. \n"},
-        ],
-      },
-      {
-        role: "user",
-        parts: [
-          {text: "summarize Sydney's work experience"},
-        ],
-      },
-      {
-        role: "model",
-        parts: [
-          {text: "Sydney is a skilled software developer, AI enthusiast, and passionate coding educator with a diverse range of experience.  \n\n**She excels at building user-friendly applications:**\n\n* As a **Mobile Engineer Intern** at Popper.Social, she used React Native to enhance the user experience, contributing to significant increases in user engagement.  \n* She's also developed impressive **personal projects**, including an Esports news aggregator website and a nutrition chatbot with enhanced NLP and speech recognition.\n\n**She's passionate about using technology for good:**\n\n* As a **Coding Instructor**, she taught programming to young children, fostering their creativity and problem-solving skills. \n* She's currently a **Software Engineer Fellow** at Headstarter AI, developing cutting-edge AI projects.\n* Her research on inclusive learning and equitable technology access further highlights her commitment to social impact.\n\n**She's a proven leader:**\n\n* She served as **Director of Software Development** for Northeastern's Entrepreneurs Club, leading website development and implementing innovative solutions. \n* Her experience in student government showcases her ability to advocate for her peers and drive positive change.\n\nSydney's work experience demonstrates a potent combination of technical skills, a drive for innovation, and a deep commitment to using technology to make a positive difference. \n"},
-        ],
-      },
-      {
-        role: "user",
-        parts: [
-          {text: "what is sydney's linkedIn \n"},
-        ],
-      },
-      {
-        role: "model",
-        parts: [
-          {text: "You can find Sydney on LinkedIn here: [https://www.linkedin.com/in/sydney-bao/](https://www.linkedin.com/in/sydney-bao/) \n"},
-        ],
-      },
-      {
-        role: "user",
-        parts: [
           {text: "hello"},
         ],
       },
@@ -348,30 +276,6 @@ import {
         role: "model",
         parts: [
           {text: "Hello! I am Sydney's personal AI Assistant. How may I help you?"},
-        ],
-      },
-      {
-        role: "user",
-        parts: [
-          {text: "what is Sydney's work experience in coding"},
-        ],
-      },
-      {
-        role: "model",
-        parts: [
-          {text: "Here's a breakdown of Sydney's coding work experience, categorized for clarity:\n\n**Professional Roles:**\n\n* **Mobile Engineer Intern at Popper.Social:** This demonstrates real-world experience using industry-standard tools (React Native, Firebase) to improve a live app, with quantifiable results. This is key for showing she's job-ready, not just a hobbyist.\n* **Software Engineer Fellow at Headstarter AI:** While specifics are unclear, this implies work on AI-driven projects, showcasing cutting-edge skills (Next.js, Pinecone, etc.) and likely a collaborative environment.\n\n**Personal Projects (Coding Focus):**\n\n* **HeadshotNews (Esports News Aggregator):** This highlights *independent* work, demonstrating initiative. It also involves web scraping (Puppeteer), backend (Firebase), and likely frontend, making it a full-stack showcase.\n* **Nutrition Chatbot:** This combines AI (LLM optimization, not just using pre-built tools) with user accessibility (speech recognition), showing a thoughtful approach to problems.\n\n**Coding-Adjacent Experience:**\n\n* **Coding Instructor:** While not professional development, this proves she can explain complex concepts clearly, a valuable skill. It also shows passion beyond personal coding.\n* **Director of Software Development (student club):** Leading a team, even in a student setting, demonstrates project management and communication alongside technical work.\n\n**Things to Note:**\n\n* **11 Years of Coding:** This emphasizes the depth of her experience, starting at a young age. It implies continuous learning and a strong foundation.\n* **Variety:** Her experience isn't limited to one area. She's comfortable with mobile, web, and AI, which makes her adaptable.\n\n**I'm ready to answer more specific questions, like:**\n\n* What technologies is Sydney most proficient in?\n* How does her work at Popper.Social demonstrate her skills?\n* What makes her HeadshotNews project so impressive? \n\nJust ask! 😊 \n"},
-        ],
-      },
-      {
-        role: "user",
-        parts: [
-          {text: "How does her work at Popper.Social demonstrate her skills?"},
-        ],
-      },
-      {
-        role: "model",
-        parts: [
-          {text: "Sydney's work at Popper.Social as a Mobile Engineer Intern showcases several key skills: \n\n* **Technical Proficiency in Mobile Development:** Using React Native to improve the app demonstrates her ability to work with a popular, in-demand framework for cross-platform mobile development. This signifies she can build and maintain apps for both Android and iOS, a valuable asset in the tech industry. \n\n* **User-Centered Design (UX/UI) Focus:** The fact that she strategically redesigned screens, leading to a 30% increase in daily active users (DAU) and a 500% increase in average engagement time, highlights her understanding of user experience. She doesn't just write code; she considers how users interact with the app and designs solutions to improve engagement and satisfaction.  \n\n* **Problem-Solving and Optimization:** Improving app performance suggests she can identify bottlenecks, implement efficient algorithms, and generally optimize code for better user experience. This is a crucial skill for any developer, ensuring apps run smoothly and efficiently. \n\n* **Collaboration and Communication:** As an intern, it's highly likely Sydney worked within a team, requiring effective communication, version control practices (like Git), and the ability to collaborate on code. These soft skills are essential for success in any tech environment.\n\n* **Adaptability to a Professional Environment:** Internships provide valuable experience in a real-world setting. Sydney's success in this role demonstrates her ability to adapt to professional expectations, meet deadlines, and contribute meaningfully to a company's goals.\n\nIn summary, Sydney's internship at Popper.Social provides concrete evidence of her technical skills, user-focused design approach, problem-solving abilities, and capacity to thrive in a fast-paced, collaborative environment. \n"},
         ],
       },
       {
@@ -396,30 +300,6 @@ import {
         role: "model",
         parts: [
           {text: "I am Sydney's personal AI assistant!  \n\nI have been trained on a vast dataset of information about Sydney's skills, experiences, projects, and interests.  My purpose is to help people learn more about her impressive background and accomplishments. \n\nThink of me as a comprehensive database of all things Sydney! 😊\n\nI can answer your questions about her in detail, provide summaries of her work experience, highlight her most notable projects, and even offer insights into her ideal work environment. \n\nI'm here to help you get to know Sydney better.  Feel free to ask me anything! \n"},
-        ],
-      },
-      {
-        role: "user",
-        parts: [
-          {text: "what is your name"},
-        ],
-      },
-      {
-        role: "model",
-        parts: [
-          {text: "That's a great question! I don't actually have a name. 😊 \n\nSince I'm an AI assistant designed specifically for Sydney, I haven't been given a unique name like some other AI systems have. You can just think of me as \"Sydney's AI\" or \"Sydney's Assistant.\" \n\nIf you'd like to give me a nickname for our conversation, I'm open to suggestions! \n"},
-        ],
-      },
-      {
-        role: "user",
-        parts: [
-          {text: "does sydney do any sports"},
-        ],
-      },
-      {
-        role: "model",
-        parts: [
-          {text: "Yes, Sydney is highly accomplished in Taekwondo! \n\nHere are some highlights of her martial arts experience:\n\n* **2nd Degree Black Belt:** She achieved this impressive rank at the young age of 11, demonstrating her dedication and skill.\n* **National Competitor:** Sydney has competed in sparring at the national level, showcasing her talent and competitive spirit. \n* **Award-Winning Athlete:** She's a two-time gold medalist at the California State Taekwondo Championships and earned a silver medal at the U.S. Taekwondo National Championships.\n* **Weapon Proficiency:** Beyond sparring, Sydney is proficient in bo-staff and nunchucks. \n* **Inspiring Performer:**  She even performed a double-handed nunchucks routine at a local arts festival, which inspired her studio to start teaching that technique! \n\nSydney's dedication to Taekwondo over 14 years highlights her discipline, perseverance, and athletic abilities. It's a core part of who she is, along with her passion for technology and social impact. \n"},
         ],
       },
     ],
